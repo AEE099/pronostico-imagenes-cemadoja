@@ -19,7 +19,7 @@ import pandas as pd
 import streamlit as st
 
 AQUI = Path(__file__).parent
-RES = AQUI / "resultados"
+RES = AQUI / "resultados" if (AQUI / "resultados").exists() else AQUI
 BASE = "Ingenuo estacional"
 
 CLARO = {"tinta": "#14212B", "tinta2": "#4E5D68", "linea": "#D6DEE3", "acento": "#0F7C8C",
