@@ -1,0 +1,838 @@
+ESTUDIO,ANO,MES_NUM,MES,CANTIDAD
+Densitometrías,2019,1,ENERO,318
+Densitometrías,2019,2,FEBRERO,288
+Densitometrías,2019,3,MARZO,294
+Densitometrías,2019,4,ABRIL,286
+Densitometrías,2019,5,MAYO,367
+Densitometrías,2019,6,JUNIO,318
+Densitometrías,2019,7,JULIO,417
+Densitometrías,2019,8,AGOSTO,364
+Densitometrías,2019,9,SEPTIEMB,312
+Densitometrías,2019,10,OCTUBRE,417
+Densitometrías,2019,11,NOVIEMB,301
+Densitometrías,2019,12,DICIEMB,205
+Densitometrías,2020,1,ENERO,332
+Densitometrías,2020,2,FEBRERO,338
+Densitometrías,2020,3,MARZO,105
+Densitometrías,2020,4,ABRIL,0
+Densitometrías,2020,5,MAYO,15
+Densitometrías,2020,6,JUNIO,63
+Densitometrías,2020,7,JULIO,67
+Densitometrías,2020,8,AGOSTO,72
+Densitometrías,2020,9,SEPTIEMB,107
+Densitometrías,2020,10,OCTUBRE,192
+Densitometrías,2020,11,NOVIEMB,208
+Densitometrías,2020,12,DICIEMB,135
+Densitometrías,2021,1,ENERO,124
+Densitometrías,2021,2,FEBRERO,242
+Densitometrías,2021,3,MARZO,286
+Densitometrías,2021,4,ABRIL,241
+Densitometrías,2021,5,MAYO,249
+Densitometrías,2021,6,JUNIO,206
+Densitometrías,2021,7,JULIO,196
+Densitometrías,2021,8,AGOSTO,283
+Densitometrías,2021,9,SEPTIEMB,255
+Densitometrías,2021,10,OCTUBRE,226
+Densitometrías,2021,11,NOVIEMB,276
+Densitometrías,2021,12,DICIEMB,140
+Densitometrías,2022,1,ENERO,70
+Densitometrías,2022,2,FEBRERO,59
+Densitometrías,2022,3,MARZO,272
+Densitometrías,2022,4,ABRIL,226
+Densitometrías,2022,5,MAYO,323
+Densitometrías,2022,6,JUNIO,272
+Densitometrías,2022,7,JULIO,252
+Densitometrías,2022,8,AGOSTO,61
+Densitometrías,2022,9,SEPTIEMB,296
+Densitometrías,2022,10,OCTUBRE,332
+Densitometrías,2022,11,NOVIEMB,83
+Densitometrías,2022,12,DICIEMB,47
+Densitometrías,2023,1,ENERO,229
+Densitometrías,2023,2,FEBRERO,363
+Densitometrías,2023,3,MARZO,302
+Densitometrías,2023,4,ABRIL,334
+Densitometrías,2023,5,MAYO,356
+Densitometrías,2023,6,JUNIO,275
+Densitometrías,2023,7,JULIO,315
+Densitometrías,2023,8,AGOSTO,222
+Densitometrías,2023,9,SEPTIEMB,311
+Densitometrías,2023,10,OCTUBRE,322
+Densitometrías,2023,11,NOVIEMB,338
+Densitometrías,2023,12,DICIEMB,214
+Densitometrías,2024,1,ENERO,227
+Densitometrías,2024,2,FEBRERO,352
+Densitometrías,2024,3,MARZO,309
+Densitometrías,2024,4,ABRIL,301
+Densitometrías,2024,5,MAYO,299
+Densitometrías,2024,6,JUNIO,271
+Densitometrías,2024,7,JULIO,309
+Densitometrías,2024,8,AGOSTO,317
+Densitometrías,2024,9,SEPTIEMB,318
+Densitometrías,2024,10,OCTUBRE,307
+Densitometrías,2024,11,NOVIEMB,313
+Densitometrías,2024,12,DICIEMB,215
+Densitometrías,2025,1,ENERO,227
+Densitometrías,2025,2,FEBRERO,159
+Densitometrías,2025,3,MARZO,0
+Densitometrías,2025,4,ABRIL,163
+Densitometrías,2025,5,MAYO,269
+Densitometrías,2025,6,JUNIO,326
+Densitometrías,2025,7,JULIO,270
+Densitometrías,2025,8,AGOSTO,331
+Densitometrías,2025,9,SEPTIEMB,288
+Densitometrías,2025,10,OCTUBRE,243
+Densitometrías,2025,11,NOVIEMB,314
+Densitometrías,2025,12,DICIEMB,189
+Densitometrías,2026,1,ENERO,180
+Densitometrías,2026,2,FEBRERO,348
+Densitometrías,2026,3,MARZO,282
+Densitometrías,2026,4,ABRIL,277
+Densitometrías,2026,5,MAYO,283
+Densitometrías,2026,6,JUNIO,261
+Densitometrías,2026,7,JULIO,298
+Densitometrías,2026,8,AGOSTO,369
+Densitometrías,2026,9,SEPTIEMB,315
+Doppler,2019,1,ENERO,198
+Doppler,2019,2,FEBRERO,162
+Doppler,2019,3,MARZO,160
+Doppler,2019,4,ABRIL,137
+Doppler,2019,5,MAYO,213
+Doppler,2019,6,JUNIO,211
+Doppler,2019,7,JULIO,209
+Doppler,2019,8,AGOSTO,203
+Doppler,2019,9,SEPTIEMB,154
+Doppler,2019,10,OCTUBRE,195
+Doppler,2019,11,NOVIEMB,214
+Doppler,2019,12,DICIEMB,177
+Doppler,2020,1,ENERO,196
+Doppler,2020,2,FEBRERO,242
+Doppler,2020,3,MARZO,115
+Doppler,2020,4,ABRIL,2
+Doppler,2020,5,MAYO,81
+Doppler,2020,6,JUNIO,224
+Doppler,2020,7,JULIO,243
+Doppler,2020,8,AGOSTO,264
+Doppler,2020,9,SEPTIEMB,273
+Doppler,2020,10,OCTUBRE,321
+Doppler,2020,11,NOVIEMB,312
+Doppler,2020,12,DICIEMB,244
+Doppler,2021,1,ENERO,224
+Doppler,2021,2,FEBRERO,232
+Doppler,2021,3,MARZO,265
+Doppler,2021,4,ABRIL,260
+Doppler,2021,5,MAYO,263
+Doppler,2021,6,JUNIO,231
+Doppler,2021,7,JULIO,300
+Doppler,2021,8,AGOSTO,218
+Doppler,2021,9,SEPTIEMB,267
+Doppler,2021,10,OCTUBRE,240
+Doppler,2021,11,NOVIEMB,250
+Doppler,2021,12,DICIEMB,203
+Doppler,2022,1,ENERO,56
+Doppler,2022,2,FEBRERO,90
+Doppler,2022,3,MARZO,21
+Doppler,2022,4,ABRIL,116
+Doppler,2022,5,MAYO,158
+Doppler,2022,6,JUNIO,167
+Doppler,2022,7,JULIO,173
+Doppler,2022,8,AGOSTO,179
+Doppler,2022,9,SEPTIEMB,138
+Doppler,2022,10,OCTUBRE,166
+Doppler,2022,11,NOVIEMB,169
+Doppler,2022,12,DICIEMB,81
+Doppler,2023,1,ENERO,96
+Doppler,2023,2,FEBRERO,110
+Doppler,2023,3,MARZO,133
+Doppler,2023,4,ABRIL,138
+Doppler,2023,5,MAYO,157
+Doppler,2023,6,JUNIO,155
+Doppler,2023,7,JULIO,144
+Doppler,2023,8,AGOSTO,72
+Doppler,2023,9,SEPTIEMB,104
+Doppler,2023,10,OCTUBRE,101
+Doppler,2023,11,NOVIEMB,134
+Doppler,2023,12,DICIEMB,85
+Doppler,2024,1,ENERO,85
+Doppler,2024,2,FEBRERO,106
+Doppler,2024,3,MARZO,130
+Doppler,2024,4,ABRIL,106
+Doppler,2024,5,MAYO,130
+Doppler,2024,6,JUNIO,144
+Doppler,2024,7,JULIO,124
+Doppler,2024,8,AGOSTO,153
+Doppler,2024,9,SEPTIEMB,126
+Doppler,2024,10,OCTUBRE,152
+Doppler,2024,11,NOVIEMB,132
+Doppler,2024,12,DICIEMB,122
+Doppler,2025,1,ENERO,84
+Doppler,2025,2,FEBRERO,154
+Doppler,2025,3,MARZO,144
+Doppler,2025,4,ABRIL,126
+Doppler,2025,5,MAYO,132
+Doppler,2025,6,JUNIO,120
+Doppler,2025,7,JULIO,212
+Doppler,2025,8,AGOSTO,129
+Doppler,2025,9,SEPTIEMB,186
+Doppler,2025,10,OCTUBRE,117
+Doppler,2025,11,NOVIEMB,157
+Doppler,2025,12,DICIEMB,89
+Doppler,2026,1,ENERO,67
+Doppler,2026,2,FEBRERO,116
+Doppler,2026,3,MARZO,134
+Doppler,2026,4,ABRIL,130
+Doppler,2026,5,MAYO,162
+Doppler,2026,6,JUNIO,154
+Doppler,2026,7,JULIO,134
+Doppler,2026,8,AGOSTO,154
+Doppler,2026,9,SEPTIEMB,149
+Fluoroscopias,2019,1,ENERO,89
+Fluoroscopias,2019,2,FEBRERO,84
+Fluoroscopias,2019,3,MARZO,83
+Fluoroscopias,2019,4,ABRIL,83
+Fluoroscopias,2019,5,MAYO,138
+Fluoroscopias,2019,6,JUNIO,86
+Fluoroscopias,2019,7,JULIO,105
+Fluoroscopias,2019,8,AGOSTO,51
+Fluoroscopias,2019,9,SEPTIEMB,0
+Fluoroscopias,2019,10,OCTUBRE,0
+Fluoroscopias,2019,11,NOVIEMB,0
+Fluoroscopias,2019,12,DICIEMB,0
+Fluoroscopias,2020,1,ENERO,0
+Fluoroscopias,2020,2,FEBRERO,0
+Fluoroscopias,2020,3,MARZO,0
+Fluoroscopias,2020,4,ABRIL,0
+Fluoroscopias,2020,5,MAYO,0
+Fluoroscopias,2020,6,JUNIO,0
+Fluoroscopias,2020,7,JULIO,0
+Fluoroscopias,2020,8,AGOSTO,0
+Fluoroscopias,2020,9,SEPTIEMB,0
+Fluoroscopias,2020,10,OCTUBRE,26
+Fluoroscopias,2020,11,NOVIEMB,26
+Fluoroscopias,2020,12,DICIEMB,27
+Fluoroscopias,2021,1,ENERO,25
+Fluoroscopias,2021,2,FEBRERO,43
+Fluoroscopias,2021,3,MARZO,50
+Fluoroscopias,2021,4,ABRIL,45
+Fluoroscopias,2021,5,MAYO,62
+Fluoroscopias,2021,6,JUNIO,55
+Fluoroscopias,2021,7,JULIO,64
+Fluoroscopias,2021,8,AGOSTO,63
+Fluoroscopias,2021,9,SEPTIEMB,70
+Fluoroscopias,2021,10,OCTUBRE,55
+Fluoroscopias,2021,11,NOVIEMB,60
+Fluoroscopias,2021,12,DICIEMB,21
+Fluoroscopias,2022,1,ENERO,30
+Fluoroscopias,2022,2,FEBRERO,45
+Fluoroscopias,2022,3,MARZO,44
+Fluoroscopias,2022,4,ABRIL,52
+Fluoroscopias,2022,5,MAYO,51
+Fluoroscopias,2022,6,JUNIO,61
+Fluoroscopias,2022,7,JULIO,58
+Fluoroscopias,2022,8,AGOSTO,18
+Fluoroscopias,2022,9,SEPTIEMB,52
+Fluoroscopias,2022,10,OCTUBRE,63
+Fluoroscopias,2022,11,NOVIEMB,133
+Fluoroscopias,2022,12,DICIEMB,75
+Fluoroscopias,2023,1,ENERO,45
+Fluoroscopias,2023,2,FEBRERO,69
+Fluoroscopias,2023,3,MARZO,59
+Fluoroscopias,2023,4,ABRIL,91
+Fluoroscopias,2023,5,MAYO,53
+Fluoroscopias,2023,6,JUNIO,75
+Fluoroscopias,2023,7,JULIO,42
+Fluoroscopias,2023,8,AGOSTO,49
+Fluoroscopias,2023,9,SEPTIEMB,52
+Fluoroscopias,2023,10,OCTUBRE,64
+Fluoroscopias,2023,11,NOVIEMB,62
+Fluoroscopias,2023,12,DICIEMB,46
+Fluoroscopias,2024,1,ENERO,54
+Fluoroscopias,2024,2,FEBRERO,86
+Fluoroscopias,2024,3,MARZO,58
+Fluoroscopias,2024,4,ABRIL,68
+Fluoroscopias,2024,5,MAYO,54
+Fluoroscopias,2024,6,JUNIO,66
+Fluoroscopias,2024,7,JULIO,65
+Fluoroscopias,2024,8,AGOSTO,53
+Fluoroscopias,2024,9,SEPTIEMB,103
+Fluoroscopias,2024,10,OCTUBRE,77
+Fluoroscopias,2024,11,NOVIEMB,74
+Fluoroscopias,2024,12,DICIEMB,66
+Fluoroscopias,2025,1,ENERO,62
+Fluoroscopias,2025,2,FEBRERO,79
+Fluoroscopias,2025,3,MARZO,44
+Fluoroscopias,2025,4,ABRIL,52
+Fluoroscopias,2025,5,MAYO,33
+Fluoroscopias,2025,6,JUNIO,55
+Fluoroscopias,2025,7,JULIO,54
+Fluoroscopias,2025,8,AGOSTO,74
+Fluoroscopias,2025,9,SEPTIEMB,68
+Fluoroscopias,2025,10,OCTUBRE,53
+Fluoroscopias,2025,11,NOVIEMB,45
+Fluoroscopias,2025,12,DICIEMB,32
+Fluoroscopias,2026,1,ENERO,30
+Fluoroscopias,2026,2,FEBRERO,64
+Fluoroscopias,2026,3,MARZO,59
+Fluoroscopias,2026,4,ABRIL,52
+Fluoroscopias,2026,5,MAYO,59
+Fluoroscopias,2026,6,JUNIO,59
+Fluoroscopias,2026,7,JULIO,61
+Fluoroscopias,2026,8,AGOSTO,66
+Fluoroscopias,2026,9,SEPTIEMB,56
+Mamografías,2019,1,ENERO,464
+Mamografías,2019,2,FEBRERO,440
+Mamografías,2019,3,MARZO,499
+Mamografías,2019,4,ABRIL,461
+Mamografías,2019,5,MAYO,541
+Mamografías,2019,6,JUNIO,467
+Mamografías,2019,7,JULIO,580
+Mamografías,2019,8,AGOSTO,456
+Mamografías,2019,9,SEPTIEMB,442
+Mamografías,2019,10,OCTUBRE,745
+Mamografías,2019,11,NOVIEMB,573
+Mamografías,2019,12,DICIEMB,360
+Mamografías,2020,1,ENERO,484
+Mamografías,2020,2,FEBRERO,509
+Mamografías,2020,3,MARZO,304
+Mamografías,2020,4,ABRIL,1
+Mamografías,2020,5,MAYO,37
+Mamografías,2020,6,JUNIO,157
+Mamografías,2020,7,JULIO,205
+Mamografías,2020,8,AGOSTO,216
+Mamografías,2020,9,SEPTIEMB,326
+Mamografías,2020,10,OCTUBRE,648
+Mamografías,2020,11,NOVIEMB,684
+Mamografías,2020,12,DICIEMB,397
+Mamografías,2021,1,ENERO,350
+Mamografías,2021,2,FEBRERO,592
+Mamografías,2021,3,MARZO,541
+Mamografías,2021,4,ABRIL,455
+Mamografías,2021,5,MAYO,541
+Mamografías,2021,6,JUNIO,417
+Mamografías,2021,7,JULIO,481
+Mamografías,2021,8,AGOSTO,462
+Mamografías,2021,9,SEPTIEMB,491
+Mamografías,2021,10,OCTUBRE,513
+Mamografías,2021,11,NOVIEMB,556
+Mamografías,2021,12,DICIEMB,270
+Mamografías,2022,1,ENERO,199
+Mamografías,2022,2,FEBRERO,19
+Mamografías,2022,3,MARZO,532
+Mamografías,2022,4,ABRIL,420
+Mamografías,2022,5,MAYO,445
+Mamografías,2022,6,JUNIO,392
+Mamografías,2022,7,JULIO,550
+Mamografías,2022,8,AGOSTO,568
+Mamografías,2022,9,SEPTIEMB,414
+Mamografías,2022,10,OCTUBRE,519
+Mamografías,2022,11,NOVIEMB,583
+Mamografías,2022,12,DICIEMB,245
+Mamografías,2023,1,ENERO,302
+Mamografías,2023,2,FEBRERO,469
+Mamografías,2023,3,MARZO,399
+Mamografías,2023,4,ABRIL,394
+Mamografías,2023,5,MAYO,376
+Mamografías,2023,6,JUNIO,308
+Mamografías,2023,7,JULIO,436
+Mamografías,2023,8,AGOSTO,316
+Mamografías,2023,9,SEPTIEMB,332
+Mamografías,2023,10,OCTUBRE,446
+Mamografías,2023,11,NOVIEMB,536
+Mamografías,2023,12,DICIEMB,348
+Mamografías,2024,1,ENERO,372
+Mamografías,2024,2,FEBRERO,508
+Mamografías,2024,3,MARZO,509
+Mamografías,2024,4,ABRIL,478
+Mamografías,2024,5,MAYO,419
+Mamografías,2024,6,JUNIO,368
+Mamografías,2024,7,JULIO,412
+Mamografías,2024,8,AGOSTO,251
+Mamografías,2024,9,SEPTIEMB,366
+Mamografías,2024,10,OCTUBRE,451
+Mamografías,2024,11,NOVIEMB,388
+Mamografías,2024,12,DICIEMB,253
+Mamografías,2025,1,ENERO,224
+Mamografías,2025,2,FEBRERO,396
+Mamografías,2025,3,MARZO,351
+Mamografías,2025,4,ABRIL,371
+Mamografías,2025,5,MAYO,301
+Mamografías,2025,6,JUNIO,126
+Mamografías,2025,7,JULIO,314
+Mamografías,2025,8,AGOSTO,325
+Mamografías,2025,9,SEPTIEMB,335
+Mamografías,2025,10,OCTUBRE,273
+Mamografías,2025,11,NOVIEMB,375
+Mamografías,2025,12,DICIEMB,197
+Mamografías,2026,1,ENERO,187
+Mamografías,2026,2,FEBRERO,345
+Mamografías,2026,3,MARZO,302
+Mamografías,2026,4,ABRIL,258
+Mamografías,2026,5,MAYO,304
+Mamografías,2026,6,JUNIO,292
+Mamografías,2026,7,JULIO,254
+Mamografías,2026,8,AGOSTO,106
+Mamografías,2026,9,SEPTIEMB,277
+Rayos X,2019,1,ENERO,1971
+Rayos X,2019,2,FEBRERO,1765
+Rayos X,2019,3,MARZO,2217
+Rayos X,2019,4,ABRIL,1917
+Rayos X,2019,5,MAYO,2661
+Rayos X,2019,6,JUNIO,2205
+Rayos X,2019,7,JULIO,2657
+Rayos X,2019,8,AGOSTO,2572
+Rayos X,2019,9,SEPTIEMB,2408
+Rayos X,2019,10,OCTUBRE,2672
+Rayos X,2019,11,NOVIEMB,2625
+Rayos X,2019,12,DICIEMB,1464
+Rayos X,2020,1,ENERO,1207
+Rayos X,2020,2,FEBRERO,2465
+Rayos X,2020,3,MARZO,1464
+Rayos X,2020,4,ABRIL,172
+Rayos X,2020,5,MAYO,549
+Rayos X,2020,6,JUNIO,1349
+Rayos X,2020,7,JULIO,1467
+Rayos X,2020,8,AGOSTO,1482
+Rayos X,2020,9,SEPTIEMB,1692
+Rayos X,2020,10,OCTUBRE,2209
+Rayos X,2020,11,NOVIEMB,2363
+Rayos X,2020,12,DICIEMB,1513
+Rayos X,2021,1,ENERO,997
+Rayos X,2021,2,FEBRERO,1800
+Rayos X,2021,3,MARZO,1543
+Rayos X,2021,4,ABRIL,1638
+Rayos X,2021,5,MAYO,2092
+Rayos X,2021,6,JUNIO,1731
+Rayos X,2021,7,JULIO,1880
+Rayos X,2021,8,AGOSTO,1777
+Rayos X,2021,9,SEPTIEMB,1941
+Rayos X,2021,10,OCTUBRE,1748
+Rayos X,2021,11,NOVIEMB,1615
+Rayos X,2021,12,DICIEMB,1269
+Rayos X,2022,1,ENERO,1046
+Rayos X,2022,2,FEBRERO,1913
+Rayos X,2022,3,MARZO,1802
+Rayos X,2022,4,ABRIL,1535
+Rayos X,2022,5,MAYO,2024
+Rayos X,2022,6,JUNIO,1804
+Rayos X,2022,7,JULIO,1980
+Rayos X,2022,8,AGOSTO,1876
+Rayos X,2022,9,SEPTIEMB,1696
+Rayos X,2022,10,OCTUBRE,1787
+Rayos X,2022,11,NOVIEMB,2025
+Rayos X,2022,12,DICIEMB,1191
+Rayos X,2023,1,ENERO,1643
+Rayos X,2023,2,FEBRERO,1881
+Rayos X,2023,3,MARZO,1627
+Rayos X,2023,4,ABRIL,1767
+Rayos X,2023,5,MAYO,2024
+Rayos X,2023,6,JUNIO,2312
+Rayos X,2023,7,JULIO,1805
+Rayos X,2023,8,AGOSTO,1385
+Rayos X,2023,9,SEPTIEMB,1531
+Rayos X,2023,10,OCTUBRE,1868
+Rayos X,2023,11,NOVIEMB,1642
+Rayos X,2023,12,DICIEMB,1188
+Rayos X,2024,1,ENERO,1615
+Rayos X,2024,2,FEBRERO,1650
+Rayos X,2024,3,MARZO,1883
+Rayos X,2024,4,ABRIL,1769
+Rayos X,2024,5,MAYO,1946
+Rayos X,2024,6,JUNIO,1882
+Rayos X,2024,7,JULIO,1990
+Rayos X,2024,8,AGOSTO,1973
+Rayos X,2024,9,SEPTIEMB,2349
+Rayos X,2024,10,OCTUBRE,2171
+Rayos X,2024,11,NOVIEMB,1766
+Rayos X,2024,12,DICIEMB,1439
+Rayos X,2025,1,ENERO,1369
+Rayos X,2025,2,FEBRERO,491
+Rayos X,2025,3,MARZO,0
+Rayos X,2025,4,ABRIL,983
+Rayos X,2025,5,MAYO,1310
+Rayos X,2025,6,JUNIO,1745
+Rayos X,2025,7,JULIO,1499
+Rayos X,2025,8,AGOSTO,1495
+Rayos X,2025,9,SEPTIEMB,1450
+Rayos X,2025,10,OCTUBRE,1257
+Rayos X,2025,11,NOVIEMB,1562
+Rayos X,2025,12,DICIEMB,1180
+Rayos X,2026,1,ENERO,1302
+Rayos X,2026,2,FEBRERO,2138
+Rayos X,2026,3,MARZO,1811
+Rayos X,2026,4,ABRIL,1521
+Rayos X,2026,5,MAYO,1592
+Rayos X,2026,6,JUNIO,1595
+Rayos X,2026,7,JULIO,1609
+Rayos X,2026,8,AGOSTO,1773
+Rayos X,2026,9,SEPTIEMB,1464
+Resonancias,2019,1,ENERO,500
+Resonancias,2019,2,FEBRERO,486
+Resonancias,2019,3,MARZO,517
+Resonancias,2019,4,ABRIL,494
+Resonancias,2019,5,MAYO,643
+Resonancias,2019,6,JUNIO,510
+Resonancias,2019,7,JULIO,718
+Resonancias,2019,8,AGOSTO,706
+Resonancias,2019,9,SEPTIEMB,589
+Resonancias,2019,10,OCTUBRE,739
+Resonancias,2019,11,NOVIEMB,685
+Resonancias,2019,12,DICIEMB,493
+Resonancias,2020,1,ENERO,722
+Resonancias,2020,2,FEBRERO,832
+Resonancias,2020,3,MARZO,581
+Resonancias,2020,4,ABRIL,0
+Resonancias,2020,5,MAYO,220
+Resonancias,2020,6,JUNIO,564
+Resonancias,2020,7,JULIO,714
+Resonancias,2020,8,AGOSTO,541
+Resonancias,2020,9,SEPTIEMB,636
+Resonancias,2020,10,OCTUBRE,816
+Resonancias,2020,11,NOVIEMB,805
+Resonancias,2020,12,DICIEMB,673
+Resonancias,2021,1,ENERO,490
+Resonancias,2021,2,FEBRERO,709
+Resonancias,2021,3,MARZO,917
+Resonancias,2021,4,ABRIL,883
+Resonancias,2021,5,MAYO,868
+Resonancias,2021,6,JUNIO,906
+Resonancias,2021,7,JULIO,1029
+Resonancias,2021,8,AGOSTO,880
+Resonancias,2021,9,SEPTIEMB,755
+Resonancias,2021,10,OCTUBRE,794
+Resonancias,2021,11,NOVIEMB,797
+Resonancias,2021,12,DICIEMB,729
+Resonancias,2022,1,ENERO,601
+Resonancias,2022,2,FEBRERO,560
+Resonancias,2022,3,MARZO,735
+Resonancias,2022,4,ABRIL,854
+Resonancias,2022,5,MAYO,881
+Resonancias,2022,6,JUNIO,827
+Resonancias,2022,7,JULIO,853
+Resonancias,2022,8,AGOSTO,731
+Resonancias,2022,9,SEPTIEMB,691
+Resonancias,2022,10,OCTUBRE,938
+Resonancias,2022,11,NOVIEMB,1005
+Resonancias,2022,12,DICIEMB,679
+Resonancias,2023,1,ENERO,730
+Resonancias,2023,2,FEBRERO,872
+Resonancias,2023,3,MARZO,675
+Resonancias,2023,4,ABRIL,750
+Resonancias,2023,5,MAYO,737
+Resonancias,2023,6,JUNIO,825
+Resonancias,2023,7,JULIO,1025
+Resonancias,2023,8,AGOSTO,1008
+Resonancias,2023,9,SEPTIEMB,929
+Resonancias,2023,10,OCTUBRE,963
+Resonancias,2023,11,NOVIEMB,956
+Resonancias,2023,12,DICIEMB,549
+Resonancias,2024,1,ENERO,231
+Resonancias,2024,2,FEBRERO,961
+Resonancias,2024,3,MARZO,877
+Resonancias,2024,4,ABRIL,805
+Resonancias,2024,5,MAYO,839
+Resonancias,2024,6,JUNIO,861
+Resonancias,2024,7,JULIO,942
+Resonancias,2024,8,AGOSTO,858
+Resonancias,2024,9,SEPTIEMB,913
+Resonancias,2024,10,OCTUBRE,928
+Resonancias,2024,11,NOVIEMB,865
+Resonancias,2024,12,DICIEMB,766
+Resonancias,2025,1,ENERO,696
+Resonancias,2025,2,FEBRERO,953
+Resonancias,2025,3,MARZO,771
+Resonancias,2025,4,ABRIL,823
+Resonancias,2025,5,MAYO,774
+Resonancias,2025,6,JUNIO,917
+Resonancias,2025,7,JULIO,791
+Resonancias,2025,8,AGOSTO,783
+Resonancias,2025,9,SEPTIEMB,820
+Resonancias,2025,10,OCTUBRE,596
+Resonancias,2025,11,NOVIEMB,747
+Resonancias,2025,12,DICIEMB,617
+Resonancias,2026,1,ENERO,542
+Resonancias,2026,2,FEBRERO,819
+Resonancias,2026,3,MARZO,746
+Resonancias,2026,4,ABRIL,659
+Resonancias,2026,5,MAYO,763
+Resonancias,2026,6,JUNIO,834
+Resonancias,2026,7,JULIO,713
+Resonancias,2026,8,AGOSTO,816
+Resonancias,2026,9,SEPTIEMB,766
+Sonografías,2019,1,ENERO,3052
+Sonografías,2019,2,FEBRERO,2647
+Sonografías,2019,3,MARZO,3327
+Sonografías,2019,4,ABRIL,3278
+Sonografías,2019,5,MAYO,3321
+Sonografías,2019,6,JUNIO,2873
+Sonografías,2019,7,JULIO,3500
+Sonografías,2019,8,AGOSTO,2840
+Sonografías,2019,9,SEPTIEMB,2855
+Sonografías,2019,10,OCTUBRE,3640
+Sonografías,2019,11,NOVIEMB,3093
+Sonografías,2019,12,DICIEMB,2305
+Sonografías,2020,1,ENERO,2892
+Sonografías,2020,2,FEBRERO,3046
+Sonografías,2020,3,MARZO,1732
+Sonografías,2020,4,ABRIL,523
+Sonografías,2020,5,MAYO,922
+Sonografías,2020,6,JUNIO,1627
+Sonografías,2020,7,JULIO,1737
+Sonografías,2020,8,AGOSTO,1759
+Sonografías,2020,9,SEPTIEMB,2176
+Sonografías,2020,10,OCTUBRE,2657
+Sonografías,2020,11,NOVIEMB,2556
+Sonografías,2020,12,DICIEMB,1965
+Sonografías,2021,1,ENERO,1626
+Sonografías,2021,2,FEBRERO,2612
+Sonografías,2021,3,MARZO,2340
+Sonografías,2021,4,ABRIL,2806
+Sonografías,2021,5,MAYO,3044
+Sonografías,2021,6,JUNIO,2508
+Sonografías,2021,7,JULIO,2566
+Sonografías,2021,8,AGOSTO,2719
+Sonografías,2021,9,SEPTIEMB,2537
+Sonografías,2021,10,OCTUBRE,2434
+Sonografías,2021,11,NOVIEMB,2125
+Sonografías,2021,12,DICIEMB,1636
+Sonografías,2022,1,ENERO,1444
+Sonografías,2022,2,FEBRERO,2483
+Sonografías,2022,3,MARZO,2574
+Sonografías,2022,4,ABRIL,2456
+Sonografías,2022,5,MAYO,2965
+Sonografías,2022,6,JUNIO,2753
+Sonografías,2022,7,JULIO,2656
+Sonografías,2022,8,AGOSTO,2831
+Sonografías,2022,9,SEPTIEMB,2496
+Sonografías,2022,10,OCTUBRE,2693
+Sonografías,2022,11,NOVIEMB,2789
+Sonografías,2022,12,DICIEMB,1728
+Sonografías,2023,1,ENERO,2170
+Sonografías,2023,2,FEBRERO,2825
+Sonografías,2023,3,MARZO,2441
+Sonografías,2023,4,ABRIL,2671
+Sonografías,2023,5,MAYO,2350
+Sonografías,2023,6,JUNIO,1649
+Sonografías,2023,7,JULIO,2006
+Sonografías,2023,8,AGOSTO,1741
+Sonografías,2023,9,SEPTIEMB,2181
+Sonografías,2023,10,OCTUBRE,2299
+Sonografías,2023,11,NOVIEMB,1999
+Sonografías,2023,12,DICIEMB,1900
+Sonografías,2024,1,ENERO,2637
+Sonografías,2024,2,FEBRERO,2533
+Sonografías,2024,3,MARZO,2002
+Sonografías,2024,4,ABRIL,1810
+Sonografías,2024,5,MAYO,2049
+Sonografías,2024,6,JUNIO,2032
+Sonografías,2024,7,JULIO,2299
+Sonografías,2024,8,AGOSTO,2028
+Sonografías,2024,9,SEPTIEMB,2404
+Sonografías,2024,10,OCTUBRE,2473
+Sonografías,2024,11,NOVIEMB,2401
+Sonografías,2024,12,DICIEMB,1795
+Sonografías,2025,1,ENERO,1699
+Sonografías,2025,2,FEBRERO,2337
+Sonografías,2025,3,MARZO,1518
+Sonografías,2025,4,ABRIL,1698
+Sonografías,2025,5,MAYO,1331
+Sonografías,2025,6,JUNIO,1900
+Sonografías,2025,7,JULIO,2125
+Sonografías,2025,8,AGOSTO,2154
+Sonografías,2025,9,SEPTIEMB,2174
+Sonografías,2025,10,OCTUBRE,1868
+Sonografías,2025,11,NOVIEMB,2173
+Sonografías,2025,12,DICIEMB,1710
+Sonografías,2026,1,ENERO,1546
+Sonografías,2026,2,FEBRERO,2176
+Sonografías,2026,3,MARZO,615
+Sonografías,2026,4,ABRIL,1179
+Sonografías,2026,5,MAYO,1467
+Sonografías,2026,6,JUNIO,1469
+Sonografías,2026,7,JULIO,1338
+Sonografías,2026,8,AGOSTO,1444
+Sonografías,2026,9,SEPTIEMB,1538
+Tomografías,2019,1,ENERO,2235
+Tomografías,2019,2,FEBRERO,3097
+Tomografías,2019,3,MARZO,3645
+Tomografías,2019,4,ABRIL,2981
+Tomografías,2019,5,MAYO,3098
+Tomografías,2019,6,JUNIO,1761
+Tomografías,2019,7,JULIO,3081
+Tomografías,2019,8,AGOSTO,3183
+Tomografías,2019,9,SEPTIEMB,2985
+Tomografías,2019,10,OCTUBRE,3205
+Tomografías,2019,11,NOVIEMB,2644
+Tomografías,2019,12,DICIEMB,2170
+Tomografías,2020,1,ENERO,2715
+Tomografías,2020,2,FEBRERO,2761
+Tomografías,2020,3,MARZO,1835
+Tomografías,2020,4,ABRIL,767
+Tomografías,2020,5,MAYO,1376
+Tomografías,2020,6,JUNIO,2546
+Tomografías,2020,7,JULIO,2442
+Tomografías,2020,8,AGOSTO,2083
+Tomografías,2020,9,SEPTIEMB,2179
+Tomografías,2020,10,OCTUBRE,2279
+Tomografías,2020,11,NOVIEMB,2840
+Tomografías,2020,12,DICIEMB,2606
+Tomografías,2021,1,ENERO,2567
+Tomografías,2021,2,FEBRERO,2866
+Tomografías,2021,3,MARZO,2477
+Tomografías,2021,4,ABRIL,2517
+Tomografías,2021,5,MAYO,2863
+Tomografías,2021,6,JUNIO,2959
+Tomografías,2021,7,JULIO,2760
+Tomografías,2021,8,AGOSTO,2534
+Tomografías,2021,9,SEPTIEMB,2384
+Tomografías,2021,10,OCTUBRE,2356
+Tomografías,2021,11,NOVIEMB,2570
+Tomografías,2021,12,DICIEMB,2122
+Tomografías,2022,1,ENERO,2177
+Tomografías,2022,2,FEBRERO,2748
+Tomografías,2022,3,MARZO,3069
+Tomografías,2022,4,ABRIL,2616
+Tomografías,2022,5,MAYO,3016
+Tomografías,2022,6,JUNIO,3008
+Tomografías,2022,7,JULIO,2909
+Tomografías,2022,8,AGOSTO,2858
+Tomografías,2022,9,SEPTIEMB,2451
+Tomografías,2022,10,OCTUBRE,2387
+Tomografías,2022,11,NOVIEMB,2536
+Tomografías,2022,12,DICIEMB,1805
+Tomografías,2023,1,ENERO,2196
+Tomografías,2023,2,FEBRERO,2658
+Tomografías,2023,3,MARZO,2272
+Tomografías,2023,4,ABRIL,2422
+Tomografías,2023,5,MAYO,2470
+Tomografías,2023,6,JUNIO,2195
+Tomografías,2023,7,JULIO,2321
+Tomografías,2023,8,AGOSTO,1946
+Tomografías,2023,9,SEPTIEMB,1904
+Tomografías,2023,10,OCTUBRE,1996
+Tomografías,2023,11,NOVIEMB,2226
+Tomografías,2023,12,DICIEMB,1921
+Tomografías,2024,1,ENERO,2065
+Tomografías,2024,2,FEBRERO,2195
+Tomografías,2024,3,MARZO,2242
+Tomografías,2024,4,ABRIL,2026
+Tomografías,2024,5,MAYO,1923
+Tomografías,2024,6,JUNIO,1985
+Tomografías,2024,7,JULIO,2117
+Tomografías,2024,8,AGOSTO,2251
+Tomografías,2024,9,SEPTIEMB,849
+Tomografías,2024,10,OCTUBRE,1518
+Tomografías,2024,11,NOVIEMB,2264
+Tomografías,2024,12,DICIEMB,2008
+Tomografías,2025,1,ENERO,1996
+Tomografías,2025,2,FEBRERO,2460
+Tomografías,2025,3,MARZO,2190
+Tomografías,2025,4,ABRIL,2023
+Tomografías,2025,5,MAYO,1755
+Tomografías,2025,6,JUNIO,1872
+Tomografías,2025,7,JULIO,2241
+Tomografías,2025,8,AGOSTO,2113
+Tomografías,2025,9,SEPTIEMB,1923
+Tomografías,2025,10,OCTUBRE,1488
+Tomografías,2025,11,NOVIEMB,1746
+Tomografías,2025,12,DICIEMB,1560
+Tomografías,2026,1,ENERO,1838
+Tomografías,2026,2,FEBRERO,2444
+Tomografías,2026,3,MARZO,2145
+Tomografías,2026,4,ABRIL,1994
+Tomografías,2026,5,MAYO,2012
+Tomografías,2026,6,JUNIO,1949
+Tomografías,2026,7,JULIO,1825
+Tomografías,2026,8,AGOSTO,2094
+Tomografías,2026,9,SEPTIEMB,1898
+Urografías excretoras,2019,1,ENERO,26
+Urografías excretoras,2019,2,FEBRERO,47
+Urografías excretoras,2019,3,MARZO,54
+Urografías excretoras,2019,4,ABRIL,36
+Urografías excretoras,2019,5,MAYO,44
+Urografías excretoras,2019,6,JUNIO,50
+Urografías excretoras,2019,7,JULIO,39
+Urografías excretoras,2019,8,AGOSTO,12
+Urografías excretoras,2019,9,SEPTIEMB,12
+Urografías excretoras,2019,10,OCTUBRE,14
+Urografías excretoras,2019,11,NOVIEMB,8
+Urografías excretoras,2019,12,DICIEMB,2
+Urografías excretoras,2020,1,ENERO,1
+Urografías excretoras,2020,2,FEBRERO,12
+Urografías excretoras,2020,3,MARZO,13
+Urografías excretoras,2020,4,ABRIL,0
+Urografías excretoras,2020,5,MAYO,0
+Urografías excretoras,2020,6,JUNIO,9
+Urografías excretoras,2020,7,JULIO,14
+Urografías excretoras,2020,8,AGOSTO,17
+Urografías excretoras,2020,9,SEPTIEMB,18
+Urografías excretoras,2020,10,OCTUBRE,19
+Urografías excretoras,2020,11,NOVIEMB,21
+Urografías excretoras,2020,12,DICIEMB,15
+Urografías excretoras,2021,1,ENERO,15
+Urografías excretoras,2021,2,FEBRERO,0
+Urografías excretoras,2021,3,MARZO,0
+Urografías excretoras,2021,4,ABRIL,27
+Urografías excretoras,2021,5,MAYO,32
+Urografías excretoras,2021,6,JUNIO,18
+Urografías excretoras,2021,7,JULIO,23
+Urografías excretoras,2021,8,AGOSTO,36
+Urografías excretoras,2021,9,SEPTIEMB,27
+Urografías excretoras,2021,10,OCTUBRE,33
+Urografías excretoras,2021,11,NOVIEMB,27
+Urografías excretoras,2021,12,DICIEMB,11
+Urografías excretoras,2022,1,ENERO,11
+Urografías excretoras,2022,2,FEBRERO,19
+Urografías excretoras,2022,3,MARZO,27
+Urografías excretoras,2022,4,ABRIL,12
+Urografías excretoras,2022,5,MAYO,16
+Urografías excretoras,2022,6,JUNIO,29
+Urografías excretoras,2022,7,JULIO,19
+Urografías excretoras,2022,8,AGOSTO,25
+Urografías excretoras,2022,9,SEPTIEMB,19
+Urografías excretoras,2022,10,OCTUBRE,26
+Urografías excretoras,2022,11,NOVIEMB,29
+Urografías excretoras,2022,12,DICIEMB,11
+Urografías excretoras,2023,1,ENERO,17
+Urografías excretoras,2023,2,FEBRERO,18
+Urografías excretoras,2023,3,MARZO,17
+Urografías excretoras,2023,4,ABRIL,24
+Urografías excretoras,2023,5,MAYO,17
+Urografías excretoras,2023,6,JUNIO,19
+Urografías excretoras,2023,7,JULIO,20
+Urografías excretoras,2023,8,AGOSTO,24
+Urografías excretoras,2023,9,SEPTIEMB,17
+Urografías excretoras,2023,10,OCTUBRE,15
+Urografías excretoras,2023,11,NOVIEMB,14
+Urografías excretoras,2023,12,DICIEMB,13
+Urografías excretoras,2024,1,ENERO,25
+Urografías excretoras,2024,2,FEBRERO,19
+Urografías excretoras,2024,3,MARZO,26
+Urografías excretoras,2024,4,ABRIL,12
+Urografías excretoras,2024,5,MAYO,19
+Urografías excretoras,2024,6,JUNIO,15
+Urografías excretoras,2024,7,JULIO,20
+Urografías excretoras,2024,8,AGOSTO,13
+Urografías excretoras,2024,9,SEPTIEMB,27
+Urografías excretoras,2024,10,OCTUBRE,30
+Urografías excretoras,2024,11,NOVIEMB,16
+Urografías excretoras,2024,12,DICIEMB,12
+Urografías excretoras,2025,1,ENERO,8
+Urografías excretoras,2025,2,FEBRERO,2
+Urografías excretoras,2025,3,MARZO,0
+Urografías excretoras,2025,4,ABRIL,6
+Urografías excretoras,2025,5,MAYO,17
+Urografías excretoras,2025,6,JUNIO,14
+Urografías excretoras,2025,7,JULIO,17
+Urografías excretoras,2025,8,AGOSTO,14
+Urografías excretoras,2025,9,SEPTIEMB,11
+Urografías excretoras,2025,10,OCTUBRE,7
+Urografías excretoras,2025,11,NOVIEMB,10
+Urografías excretoras,2025,12,DICIEMB,9
+Urografías excretoras,2026,1,ENERO,4
+Urografías excretoras,2026,2,FEBRERO,6
+Urografías excretoras,2026,3,MARZO,9
+Urografías excretoras,2026,4,ABRIL,5
+Urografías excretoras,2026,5,MAYO,11
+Urografías excretoras,2026,6,JUNIO,4
+Urografías excretoras,2026,7,JULIO,10
+Urografías excretoras,2026,8,AGOSTO,16
+Urografías excretoras,2026,9,SEPTIEMB,8
