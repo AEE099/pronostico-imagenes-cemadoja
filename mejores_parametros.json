@@ -1,0 +1,192 @@
+{
+  "anio_prueba": 2026,
+  "modelo_elegido_por_validacion": "Ensemble ponderado top 3",
+  "datos": "estudios_cemadoja.csv",
+  "entrenamiento": "2019-01 a 2025-12",
+  "prueba": "2026-01 a 2026-09",
+  "validacion": "3 bloques de 12 meses (ventana expansiva)",
+  "interrupciones_tratadas": [
+    "Densitometrías 2020-04",
+    "Densitometrías 2020-05",
+    "Densitometrías 2020-06",
+    "Densitometrías 2020-07",
+    "Densitometrías 2020-08",
+    "Densitometrías 2022-02",
+    "Densitometrías 2022-08",
+    "Densitometrías 2022-12",
+    "Densitometrías 2025-03",
+    "Doppler 2020-04",
+    "Doppler 2022-01",
+    "Doppler 2022-03",
+    "Fluoroscopias 2019-09",
+    "Fluoroscopias 2019-10",
+    "Fluoroscopias 2019-11",
+    "Fluoroscopias 2019-12",
+    "Fluoroscopias 2020-01",
+    "Fluoroscopias 2020-02",
+    "Fluoroscopias 2020-03",
+    "Fluoroscopias 2020-04",
+    "Fluoroscopias 2020-05",
+    "Fluoroscopias 2020-06",
+    "Fluoroscopias 2020-07",
+    "Fluoroscopias 2020-08",
+    "Fluoroscopias 2020-09",
+    "Mamografías 2020-04",
+    "Mamografías 2020-05",
+    "Mamografías 2022-02",
+    "Rayos X 2020-04",
+    "Rayos X 2020-05",
+    "Rayos X 2025-03",
+    "Resonancias 2020-04",
+    "Sonografías 2020-04",
+    "Urografías excretoras 2019-11",
+    "Urografías excretoras 2019-12",
+    "Urografías excretoras 2020-01",
+    "Urografías excretoras 2020-04",
+    "Urografías excretoras 2020-05",
+    "Urografías excretoras 2020-06",
+    "Urografías excretoras 2021-02",
+    "Urografías excretoras 2021-03",
+    "Urografías excretoras 2025-02",
+    "Urografías excretoras 2025-03"
+  ],
+  "seleccion_por_modalidad": {
+    "Densitometrías": {
+      "modelo": "Gradient Boosting",
+      "regla": "mejor en validación"
+    },
+    "Doppler": {
+      "modelo": "Gradient Boosting",
+      "regla": "mejor en validación"
+    },
+    "Fluoroscopias": {
+      "modelo": "SVR",
+      "regla": "mejor en validación"
+    },
+    "Mamografías": {
+      "modelo": "Holt-Winters",
+      "regla": "mejor en validación"
+    },
+    "Rayos X": {
+      "modelo": "SVR",
+      "regla": "mejor en validación"
+    },
+    "Resonancias": {
+      "modelo": "Gradient Boosting",
+      "regla": "mejor en validación"
+    },
+    "Sonografías": {
+      "modelo": "Ridge",
+      "regla": "mejor en validación"
+    },
+    "Tomografías": {
+      "modelo": "Ensemble promedio top 3",
+      "regla": "mejor en validación"
+    },
+    "Urografías excretoras": {
+      "modelo": "SVR",
+      "regla": "mejor en validación"
+    }
+  },
+  "prueba_seleccion_vs_global": {
+    "Selección por modalidad": {
+      "MAPE_medio_%": 32.001,
+      "WAPE_%": 16.783,
+      "MAE_log": 0.231
+    },
+    "Mejor modelo global (Ensemble ponderado top 3)": {
+      "MAPE_medio_%": 28.931,
+      "WAPE_%": 18.046,
+      "MAE_log": 0.22
+    },
+    "Línea base": {
+      "MAPE_medio_%": 32.267,
+      "WAPE_%": 18.793,
+      "MAE_log": 0.263
+    }
+  },
+  "mejores_parametros": {
+    "Ingenuo estacional": {
+      "parametros": "ninguno (repite el mismo mes del año anterior)"
+    },
+    "Holt-Winters": {
+      "parametros": {
+        "tendencia": "sin tendencia",
+        "estacionalidad": "aditiva, 12 meses (sobre log)"
+      },
+      "cv_mae_log_por_opcion": {
+        "sin tendencia": 0.2204,
+        "aditiva": 0.2452,
+        "amortiguada": 0.2243
+      }
+    },
+    "Ridge": {
+      "busqueda": "GridSearchCV, 26 combinaciones × 3 bloques",
+      "parametros": {
+        "inter": "sin interacciones",
+        "alpha": 0.001
+      },
+      "cv_mae_log": 0.2206
+    },
+    "Random Forest": {
+      "busqueda": "RandomizedSearchCV, 60 combinaciones × 3 bloques",
+      "parametros": {
+        "max_depth": 16,
+        "max_features": 0.6,
+        "min_samples_leaf": 3,
+        "n_estimators": 548
+      },
+      "cv_mae_log": 0.1943
+    },
+    "Gradient Boosting": {
+      "busqueda": "RandomizedSearchCV, 80 combinaciones × 3 bloques",
+      "parametros": {
+        "learning_rate": 0.02521,
+        "max_depth": 5,
+        "min_samples_leaf": 8,
+        "n_estimators": 511,
+        "subsample": 0.59799
+      },
+      "cv_mae_log": 0.1949
+    },
+    "SVR": {
+      "busqueda": "GridSearchCV, 162 combinaciones × 3 bloques",
+      "parametros": {
+        "C": 100.0,
+        "epsilon": 0.03,
+        "kernel": "linear"
+      },
+      "cv_mae_log": 0.2082
+    },
+    "Ensemble promedio (Random Forest + Gradient Boosting)": {
+      "componentes": {
+        "Random Forest": 0.5,
+        "Gradient Boosting": 0.5
+      },
+      "cv_mae_log": 0.1913
+    },
+    "Ensemble promedio top 3": {
+      "componentes": {
+        "Random Forest": 0.333,
+        "Gradient Boosting": 0.333,
+        "SVR": 0.333
+      },
+      "cv_mae_log": 0.1897
+    },
+    "Ensemble ponderado top 3": {
+      "componentes": {
+        "Random Forest": 0.342,
+        "Gradient Boosting": 0.34,
+        "SVR": 0.318
+      },
+      "cv_mae_log": 0.1896
+    }
+  },
+  "segundos_busqueda": {
+    "Holt-Winters": 0.9,
+    "Ridge": 2.3,
+    "Random Forest": 40.5,
+    "Gradient Boosting": 46.3,
+    "SVR": 65.2
+  }
+}

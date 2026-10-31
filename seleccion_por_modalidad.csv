@@ -1,0 +1,10 @@
+ESTUDIO,MODELO,REGLA,VAL_MAPE_%,VAL_MAPE_BASE_%,PRUEBA_MAPE_%,PRUEBA_MAE,PRUEBA_WAPE_%,PRUEBA_SESGO_%,PRUEBA_MAPE_BASE_%,PRUEBA_MAE_BASE
+Densitometrías,Gradient Boosting,mejor en validación,18.7459,19.4344,18.5217,57.9016,19.9431,-19.0836,20.8328,60.4444
+Doppler,Gradient Boosting,mejor en validación,20.9552,29.5863,17.5189,20.7696,15.5772,-6.9263,23.1714,30.3333
+Fluoroscopias,SVR,mejor en validación,20.5055,32.4117,16.1399,7.9105,14.0701,-7.2640,27.9334,13.2222
+Mamografías,Holt-Winters,mejor en validación,18.7731,29.9577,26.1642,48.3560,18.7185,-1.3408,44.8437,84.0000
+Rayos X,SVR,mejor en validación,20.8755,27.4629,9.6163,176.0420,10.7016,-10.1789,19.1181,350.7778
+Resonancias,Gradient Boosting,mejor en validación,14.8677,21.4769,7.5905,59.3382,8.0211,-5.9906,11.8266,81.7778
+Sonografías,Ridge,mejor en validación,14.1464,21.1348,51.2900,529.8989,37.3402,34.5653,44.0106,492.8889
+Tomografías,Ensemble promedio top 3,mejor en validación,15.3600,18.8872,9.2476,195.2776,9.6571,-8.5961,6.0607,115.7778
+Urografías excretoras,SVR,mejor en validación,35.5302,51.4733,131.9235,7.5694,93.3214,90.7107,92.6038,5.8889

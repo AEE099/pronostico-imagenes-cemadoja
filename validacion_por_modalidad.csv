@@ -1,0 +1,82 @@
+ESTUDIO,Modelo,VAL_MAE_log,VAL_MAPE_%
+Densitometrías,Ingenuo estacional,0.2112,19.4344
+Densitometrías,Holt-Winters,0.2155,21.6506
+Densitometrías,Ridge,0.2802,24.8377
+Densitometrías,Random Forest,0.1937,19.2527
+Densitometrías,Gradient Boosting,0.1852,18.7459
+Densitometrías,SVR,0.2225,20.6999
+Densitometrías,Ensemble promedio (Random Forest + Gradient Boosting),0.1872,18.8377
+Densitometrías,Ensemble promedio top 3,0.1919,18.8617
+Densitometrías,Ensemble ponderado top 3,0.1915,18.8404
+Doppler,Ingenuo estacional,0.2608,29.5863
+Doppler,Holt-Winters,0.2223,23.1216
+Doppler,Ridge,0.2555,31.1550
+Doppler,Random Forest,0.1990,22.2123
+Doppler,Gradient Boosting,0.1919,20.9552
+Doppler,SVR,0.2707,33.5997
+Doppler,Ensemble promedio (Random Forest + Gradient Boosting),0.1945,21.4268
+Doppler,Ensemble promedio top 3,0.2054,23.8222
+Doppler,Ensemble ponderado top 3,0.2043,23.6510
+Fluoroscopias,Ingenuo estacional,0.3074,32.4117
+Fluoroscopias,Holt-Winters,0.3861,51.3022
+Fluoroscopias,Ridge,0.2191,20.6454
+Fluoroscopias,Random Forest,0.2222,23.9422
+Fluoroscopias,Gradient Boosting,0.2168,23.9434
+Fluoroscopias,SVR,0.2082,20.5055
+Fluoroscopias,Ensemble promedio (Random Forest + Gradient Boosting),0.2157,23.5552
+Fluoroscopias,Ensemble promedio top 3,0.2109,22.2607
+Fluoroscopias,Ensemble ponderado top 3,0.2111,22.3156
+Mamografías,Ingenuo estacional,0.2514,29.9577
+Mamografías,Holt-Winters,0.1647,18.7731
+Mamografías,Ridge,0.1747,20.7146
+Mamografías,Random Forest,0.2009,24.5082
+Mamografías,Gradient Boosting,0.2143,26.5765
+Mamografías,SVR,0.1761,21.0900
+Mamografías,Ensemble promedio (Random Forest + Gradient Boosting),0.2044,25.1734
+Mamografías,Ensemble promedio top 3,0.1929,23.5797
+Mamografías,Ensemble ponderado top 3,0.1934,23.6518
+Rayos X,Ingenuo estacional,0.2254,27.4629
+Rayos X,Holt-Winters,0.2199,27.5632
+Rayos X,Ridge,0.1814,21.3416
+Rayos X,Random Forest,0.2054,26.7403
+Rayos X,Gradient Boosting,0.2021,25.7400
+Rayos X,SVR,0.1773,20.8755
+Rayos X,Ensemble promedio (Random Forest + Gradient Boosting),0.2028,26.1506
+Rayos X,Ensemble promedio top 3,0.1925,24.1543
+Rayos X,Ensemble ponderado top 3,0.1930,24.2474
+Resonancias,Ingenuo estacional,0.1995,21.4769
+Resonancias,Holt-Winters,0.1567,18.1367
+Resonancias,Ridge,0.3059,27.7203
+Resonancias,Random Forest,0.1366,17.1089
+Resonancias,Gradient Boosting,0.1321,14.8677
+Resonancias,SVR,0.2749,25.8378
+Resonancias,Ensemble promedio (Random Forest + Gradient Boosting),0.1343,15.9681
+Resonancias,Ensemble promedio top 3,0.1543,16.9264
+Resonancias,Ensemble ponderado top 3,0.1528,16.8332
+Sonografías,Ingenuo estacional,0.1908,21.1348
+Sonografías,Holt-Winters,0.1450,16.2738
+Sonografías,Ridge,0.1366,14.1464
+Sonografías,Random Forest,0.1402,15.3725
+Sonografías,Gradient Boosting,0.1553,17.0211
+Sonografías,SVR,0.1407,15.1960
+Sonografías,Ensemble promedio (Random Forest + Gradient Boosting),0.1417,15.5905
+Sonografías,Ensemble promedio top 3,0.1375,15.0746
+Sonografías,Ensemble ponderado top 3,0.1376,15.0814
+Tomografías,Ingenuo estacional,0.1704,18.8872
+Tomografías,Holt-Winters,0.1372,15.2896
+Tomografías,Ridge,0.1373,15.8145
+Tomografías,Random Forest,0.1351,15.6277
+Tomografías,Gradient Boosting,0.1543,18.0324
+Tomografías,SVR,0.1336,15.6282
+Tomografías,Ensemble promedio (Random Forest + Gradient Boosting),0.1384,16.1878
+Tomografías,Ensemble promedio top 3,0.1306,15.3600
+Tomografías,Ensemble ponderado top 3,0.1308,15.3886
+Urografías excretoras,Ingenuo estacional,0.3600,51.4733
+Urografías excretoras,Holt-Winters,0.3427,46.8651
+Urografías excretoras,Ridge,0.2987,41.1015
+Urografías excretoras,Random Forest,0.3167,43.3665
+Urografías excretoras,Gradient Boosting,0.3027,40.5833
+Urografías excretoras,SVR,0.2720,35.5302
+Urografías excretoras,Ensemble promedio (Random Forest + Gradient Boosting),0.3093,41.9015
+Urografías excretoras,Ensemble promedio top 3,0.2972,39.7429
+Urografías excretoras,Ensemble ponderado top 3,0.2977,39.8445

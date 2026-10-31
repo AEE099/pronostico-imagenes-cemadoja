@@ -1,0 +1,45 @@
+Interrupciones tratadas en el entrenamiento (43), detección causal y fuera de la calificación de validación: Densitometrías 2020-04, Densitometrías 2020-05, Densitometrías 2020-06, Densitometrías 2020-07, Densitometrías 2020-08, Densitometrías 2022-02, Densitometrías 2022-08, Densitometrías 2022-12, Densitometrías 2025-03, Doppler 2020-04, Doppler 2022-01, Doppler 2022-03, Fluoroscopias 2019-09, Fluoroscopias 2019-10, Fluoroscopias 2019-11, Fluoroscopias 2019-12, Fluoroscopias 2020-01, Fluoroscopias 2020-02, Fluoroscopias 2020-03, Fluoroscopias 2020-04, Fluoroscopias 2020-05, Fluoroscopias 2020-06, Fluoroscopias 2020-07, Fluoroscopias 2020-08, Fluoroscopias 2020-09, Mamografías 2020-04, Mamografías 2020-05, Mamografías 2022-02, Rayos X 2020-04, Rayos X 2020-05, Rayos X 2025-03, Resonancias 2020-04, Sonografías 2020-04, Urografías excretoras 2019-11, Urografías excretoras 2019-12, Urografías excretoras 2020-01, Urografías excretoras 2020-04, Urografías excretoras 2020-05, Urografías excretoras 2020-06, Urografías excretoras 2021-02, Urografías excretoras 2021-03, Urografías excretoras 2025-02, Urografías excretoras 2025-03
+Entrenamiento: Jan 2019 – Dec 2025 (84 meses × 9 modalidades)
+Prueba sellada: Jan 2026 – Sep 2026
+Validación cruzada temporal: 3 bloques de 12 meses
+
+Holt-Winters: mejor tendencia = sin tendencia
+Ridge                26 combinaciones  CV MAE(log) = 0.2206  (2 s)
+Random Forest        60 combinaciones  CV MAE(log) = 0.1943  (41 s)
+Gradient Boosting    80 combinaciones  CV MAE(log) = 0.1949  (46 s)
+SVR                 162 combinaciones  CV MAE(log) = 0.2082  (65 s)
+
+Ensembles armados con: Random Forest, Gradient Boosting, SVR
+
+Pronóstico guardado: Oct 2026 – Sep 2027 (12 meses, entrenado con 93 meses)
+
+=== Prueba final en 2026 (ordenado por MASE; <1 = mejor que la línea base) ===
+                                                        MASE  MAPE_%  WAPE_%      MAE     RMSE  Sesgo_%     R2  R2_medio_por_modalidad  CV_MAE_log  Dif_vs_base_%  IC95_inf_%  IC95_sup_%
+Modelo                                                                                                                                                                                   
+Random Forest                                          0.539  27.243  17.946  131.053  258.640    1.803  0.879                  -0.451       0.194         -5.762     -11.640      -0.415
+Ensemble promedio (Random Forest + Gradient Boosting)  0.567  26.447  18.644  136.150  251.283   -2.525  0.886                  -0.534       0.191         -5.306     -10.684      -0.386
+Ensemble ponderado top 3                               0.581  28.931  18.046  131.786  248.052   -0.150  0.889                  -0.560       0.190         -4.344      -9.908       0.660
+Ensemble promedio top 3                                0.582  29.069  18.025  131.633  248.001   -0.040  0.889                  -0.564       0.190         -4.280      -9.737       0.627
+Holt-Winters                                           0.608  27.948  20.658  150.854  290.129    0.094  0.848                  -0.898       0.220         -3.550      -8.429       0.543
+Gradient Boosting                                      0.611  26.210  19.661  143.574  254.041   -6.854  0.883                  -0.775       0.194         -4.274      -9.073       0.521
+SVR                                                    0.649  35.431  17.647  128.867  256.319    4.930  0.881                  -0.987       0.208         -1.383      -7.182       3.419
+Ingenuo estacional                                     0.696  32.267  18.793  137.235  285.561    4.937  0.852                  -1.691       0.241          0.000       0.000       0.000
+Ridge                                                  0.702  36.491  18.539  135.380  250.383    0.627  0.887                  -1.286       0.220         -0.014      -4.945       4.125
+
+Modelo que la validación habría elegido de antemano: Ensemble ponderado top 3
+
+=== Selección automática por modalidad (elegida con validación, probada en 2026) ===
+              ESTUDIO                  MODELO  VAL_MAPE_%  VAL_MAPE_BASE_%  PRUEBA_MAPE_%  PRUEBA_MAPE_BASE_%
+       Densitometrías       Gradient Boosting        18.7             19.4           18.5                20.8
+              Doppler       Gradient Boosting        21.0             29.6           17.5                23.2
+        Fluoroscopias                     SVR        20.5             32.4           16.1                27.9
+          Mamografías            Holt-Winters        18.8             30.0           26.2                44.8
+              Rayos X                     SVR        20.9             27.5            9.6                19.1
+          Resonancias       Gradient Boosting        14.9             21.5            7.6                11.8
+          Sonografías                   Ridge        14.1             21.1           51.3                44.0
+          Tomografías Ensemble promedio top 3        15.4             18.9            9.2                 6.1
+Urografías excretoras                     SVR        35.5             51.5          131.9                92.6
+  Selección por modalidad                       MAPE medio 32.0%   WAPE 16.8%   MAE(log) 0.2310
+  Mejor modelo global (Ensemble ponderado top 3) MAPE medio 28.9%   WAPE 18.0%   MAE(log) 0.2200
+  Línea base                                    MAPE medio 32.3%   WAPE 18.8%   MAE(log) 0.2630
+Resultados guardados en: resultados_cemadoja_final/
